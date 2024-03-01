@@ -1,0 +1,12 @@
+#ap1{height: 300px;width: 300px;}
+#ap2{height: 300px;width: 300px;}
+#ap3{height: 300px;width: 300px;}
+#ap4{height: 250px;width: 1800px;}
+.atp1{background-color:black;
+padding:10px 25px;color: aliceblue;
+}
+.atp2{display:flex;}
+.atp3{width:100vw;padding-left:150px;}
+.atp4{width:100vw;padding-left:75px;}
+.atp5{width:100vw;padding-left:75px;}
+

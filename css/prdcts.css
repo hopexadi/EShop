@@ -1,0 +1,14 @@
+#ip1{height: 200px;width: 200px;}
+#ip2{height: 200px;width: 200px;}
+#ip3{height: 200px;width: 200px;}
+#ip4{height: 200px;width: 200px;}
+#ip5{height: 200px;width: 200px;}
+.itp1{background-color:black;
+padding:10px 25px;color: aliceblue;
+}
+.itp2{display:flex;}
+.itp3{width:100vw;padding-left:50px;}
+.itp4{width:100vw;padding-left:75px;}
+.itp5{width:100vw;padding-left:75px;}
+.itp6{width:100vw;padding-left:75px;}
+.itp7{width:100vw;padding-left:75px;}
