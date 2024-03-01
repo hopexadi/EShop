@@ -1,4 +1,4 @@
-# EShop
+# EShop 🛒🛍️
 <br>
 Eshop is an e-commerce website designed to provide users with a seamless online shopping experience. Built using HTML and CSS, this project aims to create a visually appealing and user-friendly platform for purchasing a wide range of products.
 <br><br>
