@@ -2,8 +2,8 @@
 <br>
 Eshop is an e-commerce website designed to provide users with a seamless online shopping experience. Built using HTML and CSS, this project aims to create a visually appealing and user-friendly platform for purchasing a wide range of products.
 <br>
-<mark><b>Key Features:</b></mark>
 
+<b>Key Features:</b>
 Product Catalog: Browse through a diverse catalog of products organized into categories for easy navigation. Each product is showcased with images, descriptions, and prices to help users make informed purchasing decisions.
 
 Search Functionality: Utilize the search bar to quickly find specific products based on keywords, categories, or other criteria. The search results dynamically update as you type, ensuring a smooth and efficient search experience.
