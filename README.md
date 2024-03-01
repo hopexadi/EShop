@@ -5,7 +5,7 @@ Eshop is an e-commerce website designed to provide users with a seamless online 
 <br>
 <b>Key Features:</b><br>
 Product Catalog: Browse through a diverse catalog of products organized into categories for easy navigation. Each product is showcased with images, descriptions, and prices to help users make informed purchasing decisions.
-
+<br>
 Search Functionality: Utilize the search bar to quickly find specific products based on keywords, categories, or other criteria. The search results dynamically update as you type, ensuring a smooth and efficient search experience.
 
 User Accounts: Register for an account to enjoy personalized features such as saved preferences, order history, and easy checkout. Secure authentication mechanisms ensure the safety of user information.
