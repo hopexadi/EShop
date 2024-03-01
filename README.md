@@ -16,6 +16,6 @@ Responsive Design: Eshop is designed to be responsive across various devices and
 
 Technologies Used:
 
-HTML5: For structuring the content and layout of the web pages.<b>
-CSS3: For styling and customizing the appearance of the website, including fonts, colors, and layouts.<b>
+HTML5: For structuring the content and layout of the web pages.<br>
+CSS3: For styling and customizing the appearance of the website, including fonts, colors, and layouts.<br>
 GitHub: Utilized for version control and collaborative development, allowing multiple contributors to work on the project simultaneously.
